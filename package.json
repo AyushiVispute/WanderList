@@ -1,0 +1,25 @@
+{
+  "name": "wanderlist",
+  "version": "1.0.0",
+  "description": "A travel and stay listing web application where users can explore destinations, view property details, and leave reviews. Built with Node.js, Express, EJS, and MongoDB.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AyushiVispute/WanderList.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AyushiVispute/WanderList/issues"
+  },
+  "homepage": "https://github.com/AyushiVispute/WanderList#readme",
+  "dependencies": {
+    "ejs": "^3.1.10",
+    "express": "^5.1.0",
+    "mongoose": "^8.19.0"
+  }
+}
